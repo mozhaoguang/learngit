@@ -1,4 +1,4 @@
-package xiangmuguangli;
+//package xiangmuguangli;
 import java.util.Scanner;
 
 public class EEE {
